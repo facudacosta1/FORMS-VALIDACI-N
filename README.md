@@ -43,7 +43,7 @@ La clase de BT **"needs-validation"** aplicada al form habilita la función de v
 
 Las clases **.is-valid** y **.is-invalid** también se utilizan para validación del lado del servidor.
 
-El atributo **"novalidate"** permite desactivar la validación predeterminada del navegador. Se utiliza para desactivar la validación predeterminada y usar una personalizada (ej con BT).
+El atributo **novalidate** permite desactivar la validación predeterminada del navegador. Se utiliza para desactivar la validación predeterminada y usar una personalizada (ej con BT).
 
 Las clases **valid-feedback** e **invalid-feedback** se utilizan para mostrar un feedback sobre el campo del formualario. Se aplican a un div debajo del input deseado.
 
